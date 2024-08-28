@@ -56,8 +56,6 @@ button:active{
 }
 
 @media only screen and (max-width: 414px ){
-  body{
-    visibility: collapse;
-  }
+ 
 }
  
