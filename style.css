@@ -57,11 +57,12 @@ main {
 }
 
 main h2 {
-    color: white;
+    color: #ffffff;
     font-weight: bold;
     font-size: 4rem;
     margin-bottom: 1rem;
     animation: fadeIn 1.5s ease-in-out;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 main p {
